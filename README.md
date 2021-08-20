@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CAMARMFlipz
 - 👀 I’m interested in python and web
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on: nothing
 - 📫 How to reach me: https://www.camarm.dev
 
