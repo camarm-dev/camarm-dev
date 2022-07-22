@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.camarm.dev/creations](https://www.camarm.dev/creations)
 
-- 📝 I regularly write articles on [https://www.camarm.dev/news](https://www.camarm.dev/news)
+- 📝 I regularly write articles on [https://www.camarm.dev/blog](https://www.camarm.dev/blog)
 
 - 💬 Ask me about **Python / Flask / Linux**
 
