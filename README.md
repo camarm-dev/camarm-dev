@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm</h1>
 <img align="center" src="https://www.camarm.dev/static/asset/logo_small.png">
+
 <h3 align="center">A french developer / sysadmin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camarm&label=Profile%20views&color=0e75b6&style=flat" alt="camarm" /> </p>
@@ -9,8 +10,6 @@
 - 🌱 I’m currently learning **Rust & Vlang**
 
 - 👯 I’m looking to collaborate on [a hosting or database project (not created)](mailto:armand@camponovo.xyz)
-
-- 🤝 I’m looking for help with **nothing because I'm the best developer !**
 
 - 👨‍💻 All of my projects are available at [https://www.camarm.dev/creations](https://www.camarm.dev/creations)
 
@@ -22,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.camarm.dev/skills](https://www.camarm.dev/skills)
 
-- ⚡ Fun fact **Sometimes I code in Scratch.**
+- ⚡ Quick Tip **Never deploy a Friday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
