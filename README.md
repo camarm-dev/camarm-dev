@@ -25,8 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/camarmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="camarmdev" height="30" width="40" /></a>
-<a href="https://discord.gg/3sM5a2bVuT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3sM5a2bVuT" height="30" width="40" /></a>
+<a href="https://github.com/camarm-dev" target="_blank"><img alt="Site web" src="https://raw.githubusercontent.com/camarm-dev/camarm-dev/main/pdp&amp;github.png?raw=true" width="50"/></a>
+<a href="https://gitlab.com/camarm" target="_blank"><img alt="Site web" src="https://raw.githubusercontent.com/camarm-dev/camarm-dev/main/pdp&amp;gitlab.png?raw=true" width="50"/></a>
+<a href="https://www.camarm.dev" target="_blank"><img alt="Site web: https://www.camarm.dev" src="https://raw.githubusercontent.com/camarm-dev/camarm-dev/main/pdp&amp;website.png?raw=true" width="50"/></a>
+<a href="mailto:armand@camponvo.xyz"><img alt="Mail: armand@camponovo.xyz" src="https://raw.githubusercontent.com/camarm-dev/camarm-dev/main/pdp&amp;mail.png?raw=true" width="50"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
