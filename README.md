@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camarm&label=Profile%20views&color=0e75b6&style=flat" alt="camarm" /> </p>
 
-- 🔭 I’m currently working on [very interesting things](https://gitlab.com/camarm)
+- 🔭 I’m currently working on [Bow links](https://github.com/bow-links/Bow)
 
 - 🌱 I’m currently learning **Rust & Vlang**
 
