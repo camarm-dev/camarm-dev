@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camarm&label=Profile%20views&color=0e75b6&style=flat" alt="camarm" /> </p>
 
-- 🔭 I’m currently working on [Bow links](https://github.com/bow-links/Bow)
+- 🔭 I’m currently working on [Bow links](https://github.com/bow-links/Bow), [Push 2 Prod](https://github.com/camarm-dev/p2p) and many other things...
 
-- 🌱 I’m currently learning **Rust & Vlang**
+- 🌱 I’m currently learning **Ruby**
 
 - 👯 I’m looking to collaborate on [a hosting or database project (not created)](mailto:armand@camponovo.xyz)
 
