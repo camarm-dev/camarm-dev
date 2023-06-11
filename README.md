@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm</h1>
-<img align="center" src="https://www.camarm.dev/static/asset/logo_small.png">
 
-<h3 align="center">A french developer / sysadmin</h3>
+<h1 align="center">Hi 👋</h1>
+
+<p align="center">
+  <img src=".github/header.png" title="Banner" alt="Banner of camarm website">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camarm&label=Profile%20views&color=0e75b6&style=flat" alt="camarm" /> </p>
 
