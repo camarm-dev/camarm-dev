@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋</h1>
 
 <p align="center">
-  <img src=".github/header.png" title="Banner" alt="Banner of camarm website">
+  <img src="https://github.com/camarm-dev/www.camarm.dev/main/tree/.github/header.png?raw=true" title="Banner" alt="Banner of camarm website">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camarm&label=Profile%20views&color=0e75b6&style=flat" alt="camarm" /> </p>
