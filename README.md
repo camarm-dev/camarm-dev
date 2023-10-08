@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Python / Flask / Linux**
 
-- 📫 How to reach me **armand@camponovo.xyz**
+- 📫 Reach me at **contact@camarm.dev**
 
-- 📄 Know about my experiences [https://www.camarm.dev/skills](https://www.camarm.dev/skills)
+- 📄 Know about my experiences [https://www.camarm.dev](https://www.camarm.dev)
 
 - ⚡ Quick Tip **Never deploy a Friday**
 
