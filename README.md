@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camarm&label=Profile%20views&color=0e75b6&style=flat" alt="camarm" /> </p>
 
-- 🔭 I’m currently working on [Avantages Jeunes Connect](https://github.com/camarm-dev/bfc-avantages-jeunes-mobile), [Remède](https://github.com/camarm-dev/remede) and many other things...
+- 🔭 I’m currently working on [Avantages Jeunes Connect](https://github.com/camarm-dev/bfc-avantagesjeunes-mobile), [Remède](https://github.com/camarm-dev/remede) and many other things...
 
 - 🌱 I’m currently learning **Ruby**
 
