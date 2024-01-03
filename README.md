@@ -14,3 +14,7 @@
 
 **📫 Reach me**
 [<kbd>contact@camarm.dev</kbd>](mailto:contact@camarm.dev) • [<kbd>camarm.dev</kbd>](https://www.camarm.dev) • [<kbd>labse.camarm.fr</kbd>](https://labse.camarm.fr) 
+
+
+**📋 My resume**
+[<kbd>Read online</kbd>](https://cv.camarm.fr)
