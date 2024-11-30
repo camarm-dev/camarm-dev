@@ -8,7 +8,7 @@
 </div>
 
 - 🇫🇷 French developer
-- 🌱 Creator of [Labse Softwares](https://labse.camarm.fr)
+- 🌱 Creator of [Labse Software](https://labse.camarm.fr)
 - 👨‍💻 Working on [Remède](https://github.com/camarm-dev/remede), [Avantages Jeunes Connect](https://github.com/camarm-dev/bfc-avantagesjeunes-mobile) and many other...
 - ⚡ Contributor of [**PapillonApp**](https://github.com/PapillonApp) (the best school life app !).
 
