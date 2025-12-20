@@ -13,8 +13,8 @@ I'm an open source and free software enthusiast !
 </div>
 
 - 🇫🇷 French student
-- 🌱 Creator of [Labse Studio](https://labse.camarm.fr)
-- 👨‍💻 Working on [Remède](https://github.com/camarm-dev/remede), [Avantages Jeunes Connect](https://github.com/camarm-dev/bfc-avantagesjeunes-mobile) and many other...
+- 🌱 Creator of [Mosaïk Studio](https://mosaikstudio.dev) (soon)
+- 👨‍💻 Working on [Remède](https://github.com/camarm-dev/remede), and many other...
 - ⚡ Open source contributor
 
 **📫 Reach me**
