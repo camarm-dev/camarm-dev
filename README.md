@@ -13,7 +13,7 @@ I'm an open source and free software enthusiast !
 </div>
 
 - 🇫🇷 French student
-- 🌱 Creator of [Mosaïk Studio](https://mosaikstudio.dev) (soon)
+- 🌱 Creator of [Mosaïque Studio](https://mosaiquestudio.dev) (soon)
 - 👨‍💻 Working on [Remède](https://github.com/camarm-dev/remede), and many other...
 - ⚡ Open source contributor
 
