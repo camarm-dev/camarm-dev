@@ -18,7 +18,7 @@ I'm an open source and free software enthusiast !
 - ⚡ Open source contributor
 
 **📫 Reach me**
-[<kbd>contact@camarm.dev</kbd>](mailto:contact@camarm.dev) • [<kbd>camarm.dev</kbd>](https://www.camarm.dev) • [<kbd>labse.camarm.fr</kbd>](https://labse.camarm.fr) 
+[<kbd>contact@camarm.dev</kbd>](mailto:contact@camarm.dev) • [<kbd>camarm.dev</kbd>](https://www.camarm.dev)
 
 
 **📋 My resume**
